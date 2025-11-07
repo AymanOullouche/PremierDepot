@@ -1,0 +1,11 @@
+# Les fichiers temporaires et exécutables
+*.zip
+*.exe
+*.tmp
+*.o
+~$*
+
+# Les dossiers temporaires
+__pycache__/
+bin/
+obj/
